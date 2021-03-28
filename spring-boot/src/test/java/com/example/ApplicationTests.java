@@ -22,4 +22,9 @@ class ApplicationTests {
 
     }
 
+    @Test
+    public void test2(){
+
+    }
+
 }
