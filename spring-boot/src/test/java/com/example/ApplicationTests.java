@@ -17,6 +17,14 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 @AutoConfigureMockMvc
 class ApplicationTests {
 
+    @Test
+    public void test1(){
 
+    }
+
+    @Test
+    public void test2(){
+
+    }
 
 }
