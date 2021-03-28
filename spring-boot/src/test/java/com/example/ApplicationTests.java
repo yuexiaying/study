@@ -26,6 +26,8 @@ class ApplicationTests {
     public void test2(){
         System.out.println("aaaa");
         System.out.println("bbb");
+        System.out.println("3333");
+        System.out.println("444");
     }
 
 
